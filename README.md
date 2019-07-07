@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main repos for Git Web IDE demo
+Main repos for openSAP (http;//opensap.com) Git Web IDE Demo
